@@ -1,33 +1,28 @@
-  <a href="https://github.com/synacyb" style="width: 100%;">
-    <img height="300" align="center" width="150%" src="https://badge.mediaplus.ma/greenbinary/ayadouay"/>
+## Hey, I'm Ayoub Adouay 👋
+
+> _Student at 1337 Coding School (42 Network) — I love building things from scratch and understanding how systems really work._
+
+<div>
+   <img src="https://skillicons.dev/icons?i=c" width="30" alt="C">
+   <img src="https://skillicons.dev/icons?i=cpp" width="30" alt="C++">
+   <img src="https://skillicons.dev/icons?i=linux" width="30" alt="Linux">
+   <img src="https://skillicons.dev/icons?i=git" width="30" alt="Git">
+   <!-- <img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML">
+   <img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS">
+   <img src="https://skillicons.dev/icons?i=js" width="30" alt="JavaScript">
+   <img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="Node.js">
+   <img src="https://skillicons.dev/icons?i=python" width="30" alt="Python"> -->
+   <img src="https://skillicons.dev/icons?i=vscode" width="30" alt="Visual Studio Code">
+</div>
+
+<br/>
+
+<div>
+  <a href="https://www.linkedin.com/in/ayoub-adouay-15a1682ab/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-
-<h1 align="center">Hi, I'm Syna</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=synacyb&label=Profile%20views&color=0e75b6&style=flat" alt="synacyb" /> </p>
+</div>
 
 <br/>
 
-<p align="center"><img height="400px" src="https://images5.alphacoders.com/480/480537.png" alt="synacyb" /></p>
-<br/>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://x.com/synacyb" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1683366300054069248/67v23AEj_400x400.jpg" alt="hamza wahmane" height="30" width="40" /></a>
-<a href="https://www.facebook.com/synacyb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza wahmane" height="30" width="40" /></a>
-<a href="https://www.instagram.com/synacyb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza wahmane" height="30" width="40" /></a>
-</p>
-
-<h1></h1>
-<a href="https://github.com/synacyb" width="100%">
-  <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=synacyb&show_icons=true&card_width=500&theme=tokyonight" />
-</a>
-<h1></h1>
-<a href="https://github.com/synacyb" align="center" width="100%">
-  <img height=200 align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=synacyb&show_icons=true&card_width=500&theme=tokyonight" />
-</a>
-<h1></h1>
-<a href="https://github.com/synacyb" width="100%">
-  <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=synacyb&layout=compact&langs_count=20&card_width=550&theme=tokyonight" />
-</a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadouay&theme=transparent"/>
