@@ -1,6 +1,6 @@
 ## Hey, I'm Ayoub Adouay 👋
 
-> _Student at 1337 Coding School (42 Network) — I love building things from scratch and understanding how systems really work._
+> _Student at 1337 Coding School (42 Network). Passionate about low-level programming, systems, and building everything from scratch. I enjoy understanding how things work under the hood — from memory and processes to networks and web servers._
 
 <div>
    <img src="https://skillicons.dev/icons?i=c" width="30" alt="C">
